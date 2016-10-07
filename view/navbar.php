@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,26 +11,30 @@
 <body>
 
 
-	<header role="banner">
+	<div class="nav-wrap">
 
-	<div class="container">
+		<header role="banner">
 
-		<nav class="site-nav" role="navigation">
+			<nav class="site-nav" role="navigation">
+				<div class="container">
+					<ul>
+						<li><a href="">Inicio</a></li>
+						<li><a href="">Empresa</a></li>
+						<li><a href="">Productos</a></li>
+						<li><a href="">Contacto</a></li>
+						<li><a href="">Ofertas</a></li>
+						<li><a href="">Jovira</a></li>
+					</ul>
+				</div>
 
-			<ul>
-				<li><a href="">Inicio</a></li>
-				<li><a href="">Empresa</a></li>
-				<li><a href="">Productos</a></li>
-				<li><a href="">Contacto</a></li>
-				<li><a href="">Ofertas</a></li>
-				<li><a href="">Jovira</a></li>
-			</ul>
+			</nav>
+
+
 			
-		</nav>
+			<div class="mobile-nav-toggle"></div>
 
+		</header>
 	</div>
-	
-	</header>
 
 	
 </body>
