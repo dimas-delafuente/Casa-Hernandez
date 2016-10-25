@@ -13,19 +13,33 @@
 
 	<div class="nav-wrap">
 
-		<header role="banner">
 
-			
+		<div class="mobile-nav is-open">
+			<ul>
+				<li><a href="">Inicio</a></li>
+				<li><a href="">Empresa</a></li>
+				<li><a href="">Productos</a></li>
+				<li><a href="">Contacto</a></li>
+				<li><a href="">Ofertas</a></li>
+				<li><a href="">Blog</a></li>
+
+				
+
+			</ul>
+
+		</div>
+		<header role="banner">
 
 			<div class="container">
 				<div class="nav-inner">
 					<nav class="site-nav" role="navigation">
 
 						<div class="nav-start" role="nav">
-							<ul class="menu">
+							<ul>
 								<li><a href="">Inicio</a></li>
 								<li><a href="">Empresa</a></li>
 								<li><a href="">Productos</a></li>
+
 								
 							</ul>
 						</div>
@@ -38,7 +52,7 @@
 							<ul>
 								<li><a href="">Contacto</a></li>
 								<li><a href="">Ofertas</a></li>
-								<li><a href="">Jovira</a></li>
+								<li><a href="">Blog</a></li>
 							</ul>
 						</div>
 
@@ -46,15 +60,14 @@
 
 				</div>
 			</div>
-
-			
 			<div class="mobile-nav-toggle">
+
+				<span id="menu-toggle"></span>
 				
 			</div>
+
+			
 
 		</header>
 	</div>
 
-	
-</body>
-</html>
