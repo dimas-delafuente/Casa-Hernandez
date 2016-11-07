@@ -35,11 +35,41 @@ switch ($action) {
 
 	$title = "Casa Hernandez";
 	$header = "";
-	$header_title = "Inicio";
+	$header_title = "Bienvenidos a Casa Hernandez";
 
 	include('../view/inicio.php');
 	break;
 
+	case 'empresa':
+		$title = "Casa Hernandez - Empresa";
+		$header = "";
+		$header_title = "Nuestra empresa";
+
+		include('../view/empresa.php');
+		break;
+	case 'productos':
+		$title = "Casa Hernandez - Productos";
+		$header = "";
+		$header_title = "Productos";
+
+		include('../view/productos.php');
+		break;
+
+	case 'contacto':
+		$title = "Casa Hernandez - Contacto";
+		$header = "";
+		$header_title = "Contacto";
+
+		include('../view/contacto.php');
+		break;
+
+	case 'ofertas':
+		$title = "Casa Hernandez - Ofertas";
+		$header = "";
+		$header_title = "Nuestras ofertas";
+
+		include('../view/ofertas.php');
+		break;
 }
 ?>
 

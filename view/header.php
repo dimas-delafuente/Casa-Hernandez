@@ -2,7 +2,7 @@
 
 	<div class="container">
 		<div class="page-title">
-			<h1>Bienvenidos a Casa Hernández</h1>
+			<h1><?php echo $header_title; ?></h1>
 		</div>
 	</div>
 
