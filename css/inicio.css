@@ -1,43 +1,69 @@
+@keyframes icons{
+	from {transform: scaleX(0);}
+	to {transform: scaleX(1);}
+	
+}
+
+
 @media (max-width: 1000px){
 	.home-wrap{
 		display: block;
 	}
-}
-
-@media (max-width: 1100px) {
-
-	.section-icon-wrap .icon-wrap .icon-item span{
-	width: 85px !important;
-	height: 85px !important;
-	margin: auto;
-	border-radius: 50%;
-	background-color: #4B3A25;
-	display: block;
-}
 
 	
+
+	.section-icon-wrap .icon-wrap .icon-item i{
+		width: 85px !important;
+		height: 85px !important;
+		border-radius: 50%;
+		background-color: #4B3A25;
+		display: block;
+	}
+	.fa-4x{
+		font-size: 2.5em !important;
+	}
+
+	.container{
+		width: 80% !important;;
+	}
 	
+}
+
+@media (max-width: 500px){
+
+	.section-icon-wrap .icon-wrap{
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: column !important;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+
+	}
 }
 
 .home-wrap{
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+
 }
 
 .home-sections{
 	flex: 1;
+	z-index: -1;
 }
 
 .section-icon-wrap{
-    width: 100%;
-    height: auto;
-    order: 3;
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+	width: 100%;
+	height: auto;
+	order: 3;
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 }
 
 .section-icon-wrap .icon-wrap{
@@ -60,18 +86,46 @@
 
 }
 
-.section-icon-wrap .icon-wrap .icon-item span{
+.section-icon-wrap .icon-wrap .icon-item i{
 	width: 125px;
 	height: 125px;
 	margin: auto;
-	margin-bottom: 10px;
+	margin-top: 0px;
 	border-radius: 50%;
+	
 	background-color: #4B3A25;
-	display: block;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 }
+
+.section-icon-wrap .icon-wrap .icon-item i:before{
+	color: white;
+	font-family: FontAwesome;
+	font-style: normal;
+	-webkit-text-stroke: 1.5px transparent;
+}
+
+.section-icon-wrap .icon-wrap .icon-item .fa-delivery:before{
+	animation: icons 1s ease;
+	content: "\f0d1";
+}
+
+.section-icon-wrap .icon-wrap .icon-item .fa-quality:before{
+	content: "\f219";
+}
+
+.section-icon-wrap .icon-wrap .icon-item .fa-hand-sake:before{
+	content: "\f2b5";
+}
+
+
+
 
 .section-icon-wrap .icon-wrap .icon-item h4{
 	padding-top: 10px;
-			font-family: "Raleway", Helvetica, Arial, sans-serif;
+	font-family: "Raleway", Helvetica, Arial, sans-serif;
 
 }
+

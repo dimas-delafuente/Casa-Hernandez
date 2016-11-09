@@ -29,24 +29,24 @@
 				<div class="container">
 					<div class="icon-wrap">
 						<div class="icon-item">
-							<span></span>
+							<i class="fa-quality fa-4x"></i>
 							<h4>Calidad</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
 						</div>
 						<div class="icon-item">
-							<span></span>
+							<i class="fa-delivery fa-4x fa-flip-horizontal"></i>
 							<h4>Te lo enviamos</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
 
 						</div>
 						<div class="icon-item">
-							<span></span>
+							<i class="fa-hand-sake fa-4x"></i>
 							<h4>Confianza</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
 
 						</div>
 						<div class="icon-item">
-							<span></span>
+							<i class="fa-4x"></i>
 							<h4>Habibi</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
 

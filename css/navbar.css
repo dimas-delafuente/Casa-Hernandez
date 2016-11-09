@@ -23,11 +23,6 @@
 	
 }
 
-@media (min-width: 1001px) {
-
-}
-
-
 
 
 body{
@@ -44,7 +39,7 @@ body{
 
 .container{
 	position: relative;
-    width: 60%;
+    width: 70%;
     height: auto;
     margin: 0 auto;
     padding: 0px;
@@ -258,6 +253,7 @@ body{
 .nav-wrap .mobile-nav.is-open{
 	
 	transform: translateY(0%);
+	position: fixed;
 
 }
 
