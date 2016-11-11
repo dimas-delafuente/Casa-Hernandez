@@ -58,13 +58,16 @@
 			<section class="section-product-hero">
 				<div class="container">
 					<div class="product-hero-info">
-						
+						<h2>Conoce nuestros productos</h2>
+						<a href=".?action=productos">Ver productos</a>
+
 					</div>
 				</div>
 			</section>
 
 
-			<section class="space"></section>
+			<section class="space">
+			</section>
 			
 
 		</div>

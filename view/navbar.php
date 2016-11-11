@@ -22,12 +22,12 @@
 
 	<div class="mobile-nav" id="mobile-nav" >
 		<ul id="mobile-list">
-			<li><a href=".?action=inicio"">Inicio</a></li>
-			<li><a href=".?action=empresa"">Empresa</a></li>
-			<li><a href=".?action=productos"">Productos</a></li>
-			<li><a href=".?action=contacto"">Contacto</a></li>
-			<li><a href=".?action=ofertas"">Ofertas</a></li>
-			<li><a href=".?action=inicio"">Blog</a></li>
+			<li><a href=".?action=inicio">Inicio</a></li>
+			<li><a href=".?action=empresa">Empresa</a></li>
+			<li><a href=".?action=productos">Productos</a></li>
+			<li><a href=".?action=contacto">Contacto</a></li>
+			<li><a href=".?action=ofertas">Ofertas</a></li>
+			<li><a href=".?action=inicio">Blog</a></li>
 		</ul>
 
 	</div>
@@ -41,7 +41,7 @@
 						<ul>
 							<li><a href=".?action=inicio">Inicio</a></li>
 							<li><a href=".?action=empresa">Empresa</a></li>
-							<li><a href=".?action=productos"">Productos</a></li>
+							<li><a href=".?action=productos">Productos</a></li>
 
 							
 						</ul>
@@ -53,8 +53,8 @@
 					</div>
 					<div class="nav-end" role="nav">
 						<ul>
-							<li><a href=".?action=contacto"">Contacto</a></li>
-							<li><a href=".?action=ofertas"">Ofertas</a></li>
+							<li><a href=".?action=contacto">Contacto</a></li>
+							<li><a href=".?action=ofertas">Ofertas</a></li>
 							<li><a href="">Blog</a></li>
 						</ul>
 					</div>
