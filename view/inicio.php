@@ -87,10 +87,17 @@
 									<span><i></i></span>
 									<div><p>C/Campo de la Iglesia 4</p>
 									<p>Montijo, Badajoz</p>
-									<p>924454506</p></div>
+									<p><strong>924 45 45 06</strong></p></div>
 								</div>
 								<div class="pedidos-contacto-horario">
-									
+									<span><i></i></span>
+									<div class="horario">
+										<h3>Lunes a Viernes</h3>
+										<p>Mañanas: 9.30 - 13.30</p>
+										<p>Tardes: 17.30 - 20.30</p>
+										<h3>Sábados</h3>
+										<p>Mañanas: 9.30 - 13.30</p>
+									</div>
 								</div>
 							</div>
 						</div>
