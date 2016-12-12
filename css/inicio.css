@@ -527,6 +527,39 @@
 	font-size: 1.2em;
 }
 
+/*************************************************************************************************/
+
+/**************************************** CAPTION *************************************************/
+
+.section-caption{
+	width: 100%;
+	height: auto;
+}
+
+.section-caption .caption {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+
+}
+
+.section-caption .caption h2{
+	font-family: 'Petit Formal Script', cursive;
+	font-size: 40px !important;
+	text-align: center;
+
+}
+
+.section-caption .caption .caption-icon{
+	margin-top: 50px;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	
+}
 
 
 

@@ -86,35 +86,48 @@
 								<div class="pedidos-contacto-direccion">
 									<span><i></i></span>
 									<div><p>C/Campo de la Iglesia 4</p>
-									<p>Montijo, Badajoz</p>
-									<p><strong>924 45 45 06</strong></p></div>
-								</div>
-								<div class="pedidos-contacto-horario">
-									<span><i></i></span>
-									<div class="horario">
-										<h3>Lunes a Viernes</h3>
-										<p>Mañanas: 9.30 - 13.30</p>
-										<p>Tardes: 17.30 - 20.30</p>
-										<h3>Sábados</h3>
-										<p>Mañanas: 9.30 - 13.30</p>
+										<p>Montijo, Badajoz</p>
+										<p><strong>924 45 45 06</strong></p></div>
+									</div>
+									<div class="pedidos-contacto-horario">
+										<span><i></i></span>
+										<div class="horario">
+											<h3>Lunes a Viernes</h3>
+											<p>Mañanas: 9.30 - 13.30</p>
+											<p>Tardes: 17.30 - 20.30</p>
+											<h3>Sábados</h3>
+											<p>Mañanas: 9.30 - 13.30</p>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
+
+
 					</div>
+				</section>
+
+				<section class="section-caption">
+					<div class="container">
+						<div class="caption">
+							<div class="caption-icon">
+								<img src="../images/caption.svg">
+
+							</div>
+							<h2>Todo lo vence el hombre, menos el hambre, <br> de eso nos encargamos nosotros..</h2>
+						</div>
+
+					</div>
+				</section>
 
 
-				</div>
-			</section>
+				<section class="space">
+				</section>
 
 
-			<section class="space">
-			</section>
-
+			</div>
 
 		</div>
 
-	</div>
 
-
-</body>
+	</body>
