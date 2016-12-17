@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="../css/inicio.css">
 	<link rel="stylesheet" href="../css/navbar.css">
 	<link rel="stylesheet" href="../css/header.css">
+	<link rel="stylesheet" href="../css/footer.css">
+
 
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 

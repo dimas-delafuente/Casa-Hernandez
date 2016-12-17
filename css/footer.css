@@ -1,0 +1,137 @@
+@media (max-width: 850px){
+
+	.section-footer .footer{
+		flex-direction: column !important;
+	}
+
+	.section-footer .footer .footer-info{
+		width: 100% !important;
+	}
+
+	.section-footer .footer .footer-horario{
+		width: 100% !important;
+		margin: 0 !important;
+		align-items: flex-start !important;
+	}
+
+	.section-footer .footer .footer-horario table{
+		width: 100% !important;
+		font-size: medium !important;
+		
+	}
+
+	.section-footer .footer .footer-ubicacion{
+		width: 100% !important;
+	}
+
+
+	
+
+
+}
+
+
+
+.section-footer{
+	margin-top: 50px;
+	width: 100%;
+	height: auto;
+	background-color: #4B3A25;
+	padding-bottom: 15px;
+}
+
+.section-footer .footer{
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+
+	color: white;
+}
+
+.section-footer .footer h4{
+	font-size: 1.2em;
+	text-align: left;
+}
+.section-footer .footer .footer-info{
+	width: 25%;
+	height: auto;
+}
+
+
+
+.section-footer .footer .footer-horario{
+	width: 40%;
+	height: auto;
+	margin: 0 5%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.section-footer .footer .footer-horario h4{
+
+	text-align: center;
+}
+
+.section-footer .footer .footer-horario table{
+	width: 75%;
+	color: white;
+	border-spacing: 10px;
+	text-align: center;
+	font-size: larger;
+	border-collapse: collapse;
+
+
+}
+
+.section-footer .footer .footer-horario table thead{
+	font-weight: bold;
+
+}
+
+th, td {
+    border-bottom: 1px solid white;
+    padding: 8px;
+
+}
+
+.section-footer .footer .footer-horario tr:first-child{
+	border-top: 1px solid white;
+}
+
+.section-footer .footer .footer-horario td:first-child {
+
+	font-weight: bold;
+}
+
+
+
+
+
+.section-footer .footer .footer-ubicacion{
+	width: 25%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: flex-start;
+}
+
+.section-footer .footer .footer-ubicacion p{
+	margin-top: 0;
+	margin-bottom: 10px !important;
+	font-size: larger;
+}
+
+.section-footer .signature{
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+	border-top: 1px solid white;
+	padding-top: 5px;
+}
