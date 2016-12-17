@@ -50,7 +50,7 @@ switch ($action) {
 	case 'productos':
 		$title = "Casa Hernandez - Productos";
 		$header = "";
-		$header_title = "Productos";
+		$header_title = "Conoce nuestros productos";
 
 		include('../view/productos.php');
 		break;
@@ -58,7 +58,7 @@ switch ($action) {
 	case 'contacto':
 		$title = "Casa Hernandez - Contacto";
 		$header = "";
-		$header_title = "Contacto";
+		$header_title = "Contacta con nosotros";
 
 		include('../view/contacto.php');
 		break;

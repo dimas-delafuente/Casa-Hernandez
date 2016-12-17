@@ -11,7 +11,7 @@
 .header-title{
 	z-index: -1;
 	width: 100%;
-	height: 200px;
+	height: auto;
 
 	order: 2;
 

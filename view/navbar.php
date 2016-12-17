@@ -6,6 +6,9 @@
 	<link rel="stylesheet" href="../css/inicio.css">
 	<link rel="stylesheet" href="../css/navbar.css">
 	<link rel="stylesheet" href="../css/header.css">
+	<link rel="stylesheet" href="../css/productos.css">
+
+	<link rel="stylesheet" href="../css/contacto.css">
 	<link rel="stylesheet" href="../css/footer.css">
 
 
@@ -58,7 +61,7 @@
 					</div>
 					<div class="logo">
 
-						<a href=""><img src="../images/logo.svg" alt=""></a>
+						<a href=".?action=inicio"><img src="../images/logo.svg" alt=""></a>
 
 					</div>
 					<div class="nav-end" role="nav">

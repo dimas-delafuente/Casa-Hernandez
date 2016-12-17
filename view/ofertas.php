@@ -1,4 +1,8 @@
-<div class="home-wrap">
+
+<body>
+
+	
+	<div class="home-wrap">
 
 		<?php 
 
@@ -14,7 +18,22 @@
 			?>
 
 			
+			
+
+			<section class="section-footer">
+
+				<?php
+
+				include ("footer.php");
+
+				?>
+
+			</section>
+
 
 		</div>
 
 	</div>
+
+
+</body>
