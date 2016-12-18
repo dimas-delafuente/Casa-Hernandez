@@ -6,10 +6,26 @@
 	
 }
 
+@media(max-width: 1150px){
+
+	.section-productos-wrap .productos-wrap .productos-item{
+		width: 45% !important;
+	}
+
+}
+
 @media (max-width: 800px ){
 
 	.section-productos-navbar .productos-navbar ul li{	
 		width: 17% !important;
+	}
+	
+}
+
+@media (max-width: 750px) {
+
+	.section-productos-wrap .productos-wrap .productos-item{
+		width: 90% !important;
 	}
 	
 }
@@ -32,7 +48,8 @@
 
 .section-productos-navbar{
 	width: 100%;
-	height: 200px;
+	height: auto;
+	margin-bottom: 50px;
 }
 
 .section-productos-navbar .productos-navbar{
@@ -45,7 +62,7 @@
 
 .section-productos-navbar .productos-navbar ul{
 	width: 100%;
-	height: 25px;
+	height: auto;
 	display: flex;
 	flex-direction: row;
 	flex:1 1 100%;
@@ -83,3 +100,100 @@
 	color: white !important;
 	background-color: #4B3A25;
 }
+
+/************************************************************************/
+
+.section-productos-wrap{
+	width: 100%;
+	height: auto;
+}
+
+.section-productos-wrap .productos-wrap{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+.section-productos-wrap .productos-wrap .productos-item{
+	width: 30%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 15px auto;
+	text-align: center;
+	text-decoration: none;
+}
+a:visited{
+	
+	color: black;
+}
+
+.section-productos-wrap .productos-wrap .productos-item .item{
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+
+.section-productos-wrap .productos-wrap .productos-item .item img{
+	width: 100%;
+	border: 3px solid #4B3A25;
+	vertical-align: middle;
+}
+
+.section-productos-wrap .productos-wrap .productos-item .item span{
+	width: inherit;
+	height: inherit;
+	
+    top: 0;
+    left: 0;
+
+    background-color: #4B3A25;
+    color: white;
+}
+
+.vermas {
+  position: absolute;
+  width: 101%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  background: rgba(75, 58, 37, 0.62);
+  color: white;
+
+  visibility: hidden;
+  opacity: 0;
+
+  transition: all 0.25s ease-in-out;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.vermas p{
+	margin: 0;
+	padding: 10px 20px;
+	border: 2px solid white;
+}
+
+
+
+
+.section-productos-wrap .productos-wrap .productos-item .item:hover .vermas {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
