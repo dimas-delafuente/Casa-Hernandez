@@ -55,6 +55,13 @@ switch ($action) {
 		include('../view/productos.php');
 		break;
 
+	case 'pagina_producto':
+		$title = "Casa Hernandez - Productos";
+		
+
+		include('../view/pagina_producto.php');
+		break;
+
 	case 'contacto':
 		$title = "Casa Hernandez - Contacto";
 		$header = "";

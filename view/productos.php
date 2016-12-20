@@ -21,7 +21,7 @@
 				<div class="container">
 					<div class="productos-navbar">
 						<ul>
-							<li class="selected">Todos</li>
+							<li id="todos">Todos</li>
 							<li>Jamones</li>
 							<li>Lomos</li>
 							<li>Embutidos</li>
@@ -147,6 +147,18 @@
 		</div>
 
 	</div>
+
+			<script>
+		$(document).ready(function () {
+        	$('#todos').addClass('selected');               
+        
+        	$('li').click(function(){          
+        		$('li').removeClass('selected');
+        		$(this).addClass('selected'); 
+            
+        	});
+    });
+</script>
 
 
 </body>

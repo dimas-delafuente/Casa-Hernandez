@@ -99,6 +99,8 @@
 .selected{
 	color: white !important;
 	background-color: #4B3A25;
+		transition: all 0.1s;
+
 }
 
 /************************************************************************/
@@ -143,7 +145,10 @@ a:visited{
 	width: 100%;
 	border: 3px solid #4B3A25;
 	vertical-align: middle;
+		/*box-shadow:0 4px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset; */
+
 }
+
 
 .section-productos-wrap .productos-wrap .productos-item .item span{
 	width: inherit;

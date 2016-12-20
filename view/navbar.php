@@ -7,25 +7,39 @@
 	<link rel="stylesheet" href="../css/navbar.css">
 	<link rel="stylesheet" href="../css/header.css">
 	<link rel="stylesheet" href="../css/productos.css">
-
+	<link rel="stylesheet" href="../css/pagina_producto.css">
 	<link rel="stylesheet" href="../css/contacto.css">
 	<link rel="stylesheet" href="../css/footer.css">
 
 
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-
 	<link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
-
-
-
-
-
-
 	<link rel="stylesheet" href="../css/font-awesome-4.7.0/css/font-awesome.min.css">
 
-
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Script para scrollwheel del mapa -->
+	<script>
+		$(document).ready(function () {
+        $('#map').addClass('scrolloff');                // Definir los eventos del raton a "none" cuando el documento se carga
+        
+        $('#section-contacto-map').on("mouseup",function(){          // Cuando se activa el ratón, se bloquea el scroll
+        	$('#map').addClass('scrolloff'); 
+            
+        });
+        $('#section-contacto-map').on("mousedown",function(){        // Cuando activamos el raton (click), se desactivan las restricciones
+        	$('#map').removeClass('scrolloff');
+        });
+        $("#map").mouseleave(function () {              
+            $('#map').addClass('scrolloff');            // Cuando salimos del area del mapa, volvemos a colocar los eventos del ratón a "none"
+                                                        
+                                                    });
+        
+    });
+</script>
 
 </head>
 

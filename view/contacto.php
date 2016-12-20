@@ -52,8 +52,8 @@
 				</div>
 			</section>
 
-			<section class="section-contacto-map">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.6297270284854!2d-6.619315384230641!3d38.90958187956876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1690e160eaa32b%3A0xad08eae5ea4bd54b!2sCampo+de+la+Iglesia%2C+4%2C+06480+Montijo%2C+Badajoz!5e0!3m2!1ses!2ses!4v1481989443128" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<section id="section-contacto-map">
+				<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.6297270284854!2d-6.619315384230641!3d38.90958187956876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1690e160eaa32b%3A0xad08eae5ea4bd54b!2sCampo+de+la+Iglesia%2C+4%2C+06480+Montijo%2C+Badajoz!5e0!3m2!1ses!2ses!4v1481989443128" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen style="scrollwheel: false"></iframe>
 			</section>
 
 			
@@ -73,6 +73,9 @@
 		</div>
 
 	</div>
+
+
+
 
 
 </body>

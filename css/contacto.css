@@ -63,6 +63,8 @@
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
+
+
 }
 
 .section-contacto .contacto-wrap .contacto-item i:before{
@@ -73,6 +75,7 @@
 
 	opacity: 1;
 	animation: fadein 1.5s linear;
+
 
 
 }
@@ -103,6 +106,10 @@
 
 /************************************************************/
 
-.section-contacto-map{
+#section-contacto-map{
 	margin: 50px 0 !important;
 }
+
+.scrolloff {
+        pointer-events: none;
+    }
