@@ -24,6 +24,56 @@
 				</div>
 			</section>
 
+
+			<section class="section-relacionados">
+				<div class="container">
+				<hr>
+				<h3>Más sobre loncheados</h3>
+					<div class="wrap-relacionados">
+						<a href=".?action=pagina_producto" class="relacionados-item">
+							<div class="p-relacionado">
+								<img src="../images/Productos/jamon.png" alt="jamon">
+									<div class="vermas">
+										<p>Ver más</p>
+									</div>
+							</div>
+							<h4>Jamón Ibérico de Bellota</h4>
+						</a>
+
+						<a href=".?action=pagina_producto" class="relacionados-item">
+							<div class="p-relacionado">
+								<img src="../images/Productos/jamon.png" alt="jamon">
+									<div class="vermas">
+										<p>Ver más</p>
+									</div>
+							</div>
+							<h4>Jamón Ibérico de Bellota</h4>
+						</a>
+
+						<a href=".?action=pagina_producto" class="relacionados-item">
+							<div class="p-relacionado">
+								<img src="../images/Productos/jamon.png" alt="jamon">
+									<div class="vermas">
+										<p>Ver más</p>
+									</div>
+							</div>
+							<h4>Jamón Ibérico de Bellota</h4>
+						</a>
+
+						<a href=".?action=pagina_producto" class="relacionados-item">
+							<div class="p-relacionado">
+								<img src="../images/Productos/jamon.png" alt="jamon">
+									<div class="vermas">
+										<p>Ver más</p>
+									</div>
+							</div>
+							<h4>Jamón Ibérico de Bellota</h4>
+						</a>
+
+					</div>
+				</div>
+			</section>
+
 			
 			
 

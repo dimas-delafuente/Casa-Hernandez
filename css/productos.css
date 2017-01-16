@@ -138,6 +138,7 @@ a:visited{
 	width: 100%;
 	height: auto;
 	position: relative;
+	transition: all .2s ease-in-out;
 }
 
 
@@ -145,7 +146,7 @@ a:visited{
 	width: 100%;
 	border: 3px solid #4B3A25;
 	vertical-align: middle;
-		/*box-shadow:0 4px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset; */
+	box-shadow:0 4px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset; 
 
 }
 
@@ -199,6 +200,10 @@ a:visited{
   opacity: 1;
 }
 
+.section-productos-wrap .productos-wrap .productos-item .item:hover{
+	
+  transform: scale(1.1);
+}
 
 
 

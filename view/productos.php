@@ -36,7 +36,7 @@
 			<section class="section-productos-wrap">
 				<div class="container">
 					<div class="productos-wrap">
-						<a href="" class="productos-item">
+						<a href=".?action=pagina_producto" class="productos-item">
 							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
@@ -46,85 +46,85 @@
 							<h3>Jamón Ibérico de Bellota</h3>
 						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
-								<img src="../images/Productos/lomo.png" alt="jamon">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
+								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/fuet.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
-						<div class="productos-item">
-							<a href="" class="item">
+						<a href=".?action=pagina_producto" class="productos-item">
+							<div class="item">
 								<img src="../images/Productos/jamon.png" alt="jamon">
 									<div class="vermas">
 										<p>Ver más</p>
 									</div>
-							</a>
+							</div>
 							<h3>Jamón Ibérico de Bellota</h3>
-						</div>
+						</a>
 
 					</div>
 				</div>

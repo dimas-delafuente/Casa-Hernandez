@@ -1,3 +1,33 @@
+@media(max-width: 1150px){
+
+	.section-relacionados .wrap-relacionados .relacionados-item{
+		width: 26% !important;
+	}
+
+}
+
+@media(max-width: 750px){
+
+	.section-relacionados .wrap-relacionados .relacionados-item{
+		width: 34% !important;
+	}
+
+}
+
+@media(max-width: 450px){
+
+	.section-relacionados .wrap-relacionados .relacionados-item{
+		width: 42% !important;
+	}
+
+	.section-relacionados h3{
+	
+	font-size: 1.2em !important;
+}
+
+}
+
+
 .section-pagina-producto{
 	margin-top: 100px; 
 	width: 100%;
@@ -14,7 +44,7 @@
 
 .section-pagina-producto .wrap-producto .img-producto{
 	width: 50%;
-	box-shadow:0 4px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+	box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset;
 
 
 }
@@ -23,6 +53,7 @@
 	width: 100%;
 	border-radius: 1%;
 }
+
 
 .section-pagina-producto .wrap-producto .info-producto{
 	width: 50%;
@@ -33,4 +64,72 @@
 .section-pagina-producto .wrap-producto .info-producto h2{
 	text-align: center;
 	margin-top: 0;
+}
+
+
+/*****************************************************************************/
+
+.section-relacionados{
+	margin-top: 100px; 
+	width: 100%;
+	height: auto;
+}
+
+.section-relacionados h3{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.4em;
+}
+
+.section-relacionados .wrap-relacionados{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+}
+
+.section-relacionados .wrap-relacionados .relacionados-item{
+	width: 20%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 15px auto;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1.2em !important;
+}
+
+.section-relacionados .wrap-relacionados .relacionados-item .p-relacionado{
+	width: 100%;
+	height: auto;
+	position: relative;
+	transition: all .2s ease-in-out;
+}
+
+
+.section-relacionados .wrap-relacionados .relacionados-item .p-relacionado img{
+	width: 100%;
+	border: 3px solid #4B3A25;
+	vertical-align: middle;
+	box-shadow:0 4px 20px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset; 
+
+}
+
+
+.section-relacionados .wrap-relacionados .relacionados-item .p-relacionado span{
+	width: inherit;
+	height: inherit;
+	
+    top: 0;
+    left: 0;
+
+    background-color: #4B3A25;
+    color: white;
+}
+
+.section-relacionados .wrap-relacionados .relacionados-item:hover .vermas {
+  visibility: visible;
+  opacity: 1;
 }
