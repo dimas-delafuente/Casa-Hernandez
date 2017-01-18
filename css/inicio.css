@@ -214,7 +214,6 @@
 .section-icon-wrap .icon-wrap .icon-item i{
 	width: 125px;
 	height: 125px;
-	margin: auto;
 	margin-top: 0px;
 	border-radius: 50%;
 	
@@ -252,6 +251,11 @@
 .section-icon-wrap .icon-wrap .icon-item .fa-hand-sake:before{
 	content: "\f2b5";
 }
+
+.section-icon-wrap .icon-wrap .icon-item .fa-gluten img{
+	width: 60%;
+}
+
 
 
 
@@ -455,20 +459,12 @@
 	justify-content: flex-start;
 }
 
-
-.pedidos-inner .pedidos-columns .pedidos-contacto .pedidos-contacto-direccion{
-
-
-}
-
-
-
 .pedidos-inner .pedidos-columns .pedidos-contacto .pedidos-contacto-direccion span i:before{
 	font-family: FontAwesome;
 	font-style: normal;
 	opacity: 1;
 	content: "\f095";
-	color: black;
+	color: #4B3A25;
 	font-size: 2em;
 }
 
@@ -517,7 +513,7 @@
 	font-style: normal;
 	opacity: 1;
 	content: "\f017";
-	color: black;
+	color: #4B3A25;
 	font-size: 2.3em;
 }
 

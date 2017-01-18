@@ -2,9 +2,7 @@
 	<div class="footer">
 		<div class="footer-info">
 			<h4>Charcutería Casa Hernández</h4>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+			<p>Somos una empresa familiar dedicada a llevar a su casa los mejores quesos de la región y una amplia selección de productos Jovira. </p>
 		</div>
 		<div class="footer-horario">
 			<h4>Horario en tienda:</h4>

@@ -31,24 +31,24 @@
 						<div class="icon-item">
 							<i class="fa-quality fa-4x"></i>
 							<h4>Calidad</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
+							<p>Nuestros productos están cuidadosamente seleccionados y tratados para garantizar el mejor sabor y ese toque especial extremeño.</p>
 						</div>
 						<div class="icon-item">
 							<i class="fa-delivery fa-4x fa-flip-horizontal"></i>
 							<h4>Te lo enviamos</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
+							<p>Envíos en 24-48 horas laborables. Los gastos de envío corren a cargo del cliente, los cuáles variarán dependiendo del peso del pedido.</p>
 
 						</div>
 						<div class="icon-item">
 							<i class="fa-hand-sake fa-4x"></i>
 							<h4>Confianza</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
+							<p>Nuestros profesionales le aserorarán sobre todos los productos. Además, están a su disposición para casos de devoluciones o cambios en sus pedidos.</p>
 
 						</div>
 						<div class="icon-item">
-							<i class="fa-4x"></i>
-							<h4>Habibi</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, autem dicta dolorum aliquid molestiae accusamus ea, tempore ipsam eligendi impedit? Totam, fuga veritatis! Nam nemo ea culpa debitis ex enim!</p>
+							<i class="fa-gluten fa-4x"><img src="../images/noun_260059_cc.svg" alt="Gluten FREE Created by anbileru adaleru, from the Noun Project"></img></i>
+							<h4>¡Sin gluten!</h4>
+							<p>Todos nuestros productos han sido elaborados sin gluten. Así todos podrán disfrutar de nuestras elaboraciones.</p>
 
 						</div>
 					</div>
@@ -76,10 +76,10 @@
 						<div class="pedidos-columns">
 							<div class="pedidos-pasos">
 								<ul>
-									<li><i></i>Elige qué productos deseas de nuestra exquisita selección de productos</li>
+									<li><i></i>Elige qué productos deseas de nuestra exquisita selección</li>
 									<li><i></i>Llama a nuestro teléfono y le atenderemos cuidadosamente, asesorándole en todo lo necesario</li>
 									<li><i></i>Le informaremos sobre los métodos de envío y lo cuadraremos con su disponibilidad</li>
-									<li><i></i>¿Prepare la ocasión y su paladar para disfrutar de su elección!</li>
+									<li><i></i>Disfrute de su pedido, siempre mejor en compañia</li>
 								</ul>
 							</div>
 							<div class="pedidos-contacto">
@@ -115,7 +115,7 @@
 							<img src="../images/caption.svg">
 
 						</div>
-						<h2>Todo lo vence el hombre, menos el hambre, <br> de eso nos encargamos nosotros..</h2>
+						<h2>Todo lo vence el hombre, menos el hambre, <br> de eso nos encargamos nosotros...</h2>
 					</div>
 
 				</div>

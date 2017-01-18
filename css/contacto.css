@@ -107,7 +107,7 @@
 /************************************************************/
 
 #section-contacto-map{
-	margin: 50px 0 !important;
+	margin-bottom: -50px !important;
 }
 
 .scrolloff {
