@@ -29,15 +29,31 @@
 							</div>
 								<strong><p>924 45 45 06</p></strong>
 						</div>
-						<div class="contacto-item">
+						<div class="contacto-item writeus">
 							<div>
 							<h4>Escríbenos</h4>
 							<i class="fa-escribenos fa-4x fa-flip-horizontal"></i>
 								<p>Si eres de pocas palabras, puedes enviarnos un correo</p>
 							</div>
 								<strong><p>info@casahernandez.com</p></strong>
-
 						</div>
+
+						<div class="contacto-item writeus-form">
+							<h2>¡Gracias!</h2>
+							<h3>Nos pondremos en contacto lo antes posible.</h3>
+							<form id="contact-form" role="form" method="POST" action="./sendmail.php">
+								<input type="text" name="name" id="contact-name" placeholder="Nombre y apellidos" required>
+								<input type="text" name="number" id="contact-number" placeholder="Teléfono" required pattern="[0-9]{9}">
+								<input type="email" name="email" id="contact-email" placeholder="Correo electrónico" required>
+								<textarea name="message" id="contact-message" cols="30" rows="10" placeholder="Deja tu mensaje." required></textarea>
+								<input type="submit" value="Enviar" class="submit">
+							</form>
+							<div class="writeus-contact">
+    							<span class="fa fa-envelope-o"></span> info@casahernandez.com
+  							</div>
+							<span class="icon fa fa-close" id="form-close"></span>
+						</div>
+
 						<div class="contacto-item">
 							<div>
 							<h4>Visítanos</h4>

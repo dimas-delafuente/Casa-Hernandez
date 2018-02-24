@@ -147,18 +147,4 @@
 		</div>
 
 	</div>
-
-			<script>
-		$(document).ready(function () {
-        	$('#todos').addClass('selected');               
-        
-        	$('li').click(function(){          
-        		$('li').removeClass('selected');
-        		$(this).addClass('selected'); 
-            
-        	});
-    });
-</script>
-
-
 </body>

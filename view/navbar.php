@@ -22,24 +22,9 @@
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Script para scrollwheel del mapa -->
-	<script>
-		$(document).ready(function () {
-        $('#map').addClass('scrolloff');                // Definir los eventos del raton a "none" cuando el documento se carga
-        
-        $('#section-contacto-map').on("mouseup",function(){          // Cuando se activa el ratón, se bloquea el scroll
-        	$('#map').addClass('scrolloff'); 
-            
-        });
-        $('#section-contacto-map').on("mousedown",function(){        // Cuando activamos el raton (click), se desactivan las restricciones
-        	$('#map').removeClass('scrolloff');
-        });
-        $("#map").mouseleave(function () {              
-            $('#map').addClass('scrolloff');            // Cuando salimos del area del mapa, volvemos a colocar los eventos del ratón a "none"
-                                                        
-                                                    });
-        
-    });
-</script>
+	<script src="../JS/product.js"></script>
+	<script src="../JS/email.js"></script>
+
 
 </head>
 
@@ -101,34 +86,4 @@
 	</header>
 </div>
 
-<script>
-	function MenuToggle() {
 
-		var d = document.getElementById('mobile-nav-toggle');
-
-
-		if (d.className.indexOf("is-open") !=-1) {
-			d.className = "mobile-nav-toggle";
-			document.getElementById('mobile-nav').className = 'mobile-nav';
-		}else{
-			d.className += " is-open";
-			document.getElementById('mobile-nav').className += ' is-open';
-		}
-		
-
-	}	
-	
-	function getList(){
-		var list = document.getElementsByTagName('li');
-
-		for (var i = 0; i <= list.length; i++) {
-
-			var liEl = list[i];
-			document.getElementById("mobile-list").appendChild(liEl);
-
-		} 
-
-	}	
-
-
-</script>
