@@ -1,0 +1,366 @@
+[
+  {
+    "id": "jamon-bellota-do",
+    "name": "Jamón de Bellota 100% Ibérico D.O.",
+    "category": "Jamones",
+    "description": "El máximo lujo ibérico. <strong>Jamón de Bellota 100% Ibérico</strong> con <strong>D.O. Dehesa Extremadura</strong>. Cerdos puros criados en libertad y alimentados exclusivamente con bellota para una curación superior a <strong>48 meses</strong>.",
+    "price": "350.00€"
+  },
+  {
+    "id": "jamon-bellota-100",
+    "name": "Jamón de Bellota 100% Ibérico",
+    "category": "Jamones",
+    "description": "Pura excelencia. <strong>Jamón de Bellota 100% Ibérico</strong> de cerdo puro, criado en la dehesa de <strong>Extremadura</strong> con bellotas. Sabor inigualable tras más de <strong>48 meses</strong> de curación natural.",
+    "price": "120.00€"
+  },
+  {
+    "id": "jamon-bellota-50",
+    "name": "Jamón de Bellota Ibérico",
+    "category": "Jamones",
+    "description": "Exquisito <strong>Jamón de Bellota Ibérico 50% Raza Ibérica</strong>. Alimentación natural con bellota en la dehesa. Curación artesanal de <strong>42 meses</strong> para el sabor más intenso.",
+    "price": "120.00€"
+  },
+  {
+    "id": "jamon-cebo-iberico",
+    "name": "Jamón de Cebo Ibérico",
+    "category": "Jamones",
+    "description": "El clásico ibérico. <strong>Jamón de Cebo Ibérico 50% Raza Ibérica</strong> con curación mínima de <strong>30 meses</strong>. Cerdos criados en semilibertad y alimentados con cereales de receta propia.",
+    "price": "120.00€"
+  },
+  {
+    "id": "jamon-cebo-campo",
+    "name": "Jamón de Cebo Campaña",
+    "category": "Jamones",
+    "description": "Nuestro <strong>Jamón de Campaña</strong>, de cerdos criados en libertad en fincas de <strong>Extremadura</strong> y curado naturalmente durante <strong>36 meses</strong>. Pieza de sabor robusto y tradicional.",
+    "price": "120.00€"
+  },
+  {
+    "id": "jamon-reserva",
+    "name": "Jamón Gran Reserva",
+    "category": "Jamones",
+    "description": "<strong>Jamón Gran Reserva</strong> con curación mínima de <strong>24 meses</strong> en bodegas naturales. Pieza semigrasa que adquiere una coloración intensa y un sabor y aroma redondeados.",
+    "price": "120.00€"
+  },
+  {
+    "id": "jamon-familiar",
+    "name": "Jamón Reserva Familiar",
+    "category": "Jamones",
+    "description": "<strong>Jamón Reserva Familiar</strong> con <strong>24 meses</strong> de curación. Procede de cerdos criados en semilibertad, garantizando una pieza de calidad con grasa infiltrada. Sabor y aroma únicos.",
+    "price": "120.00€"
+  },
+  {
+    "id": "paleta-iberica-100",
+    "name": "Paleta de Bellota 100% Ibérica",
+    "category": "Jamones",
+    "description": "Una joya ibérica. <strong>Paleta de Bellota 100% Ibérica</strong> de cerdos puros criados en libertad en <strong>Extremadura</strong>. Curación superior a <strong>24 meses</strong>. El sabor intenso y la jugosidad de la bellota.",
+    "price": "120.00€"
+  },
+  {
+    "id": "paleta-iberica-50",
+    "name": "Paleta de Bellota Ibérica",
+    "category": "Jamones",
+    "description": "<strong>Paleta de Bellota Ibérica 50% Raza Ibérica</strong>. Criada en la dehesa y alimentada con bellota y pastos naturales. Curación mínima de <strong>24 meses</strong> en bodegas naturales para un sabor exquisito.",
+    "price": "120.00€"
+  },
+  {
+    "id": "paleta-cebo-iberica",
+    "name": "Paleta de Cebo Ibérica",
+    "category": "Jamones",
+    "description": "La <strong>Paleta de Cebo Ibérica</strong> tradicional. <strong>50% Raza Ibérica</strong> con curación de <strong>18 meses</strong>. Sabor suave y jugoso, ideal para el consumo diario. Alimentación basada en cereales de receta propia.",
+    "price": "120.00€"
+  },
+  {
+    "id": "paleta-cebo-campo",
+    "name": "Paleta de Cebo de Campo Ibérica",
+    "category": "Jamones",
+    "description": "<strong>Paleta de Cebo de Campo Ibérica 50% Raza Ibérica</strong>. Cerdos criados en libertad en el campo de <strong>Extremadura</strong>. Curación de <strong>18 meses</strong>. Sabor campero y carne infiltrada de calidad.",
+    "price": "120.00€"
+  },
+  {
+    "id": "lomo-bellota-100",
+    "name": "Lomo de Bellota 100% Ibérico",
+    "category": "Lomos",
+    "description": "La pieza más noble. <strong>Lomo de Bellota 100% Ibérico</strong> de cerdo puro, curado durante <strong>90 días</strong>. El sabor, aroma y jugosidad inconfundibles de la montanera en <strong>Extremadura</strong>.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomo-bellota-50",
+    "name": "Lomo de Bellota Ibérico",
+    "category": "Lomos",
+    "description": "El mejor sabor de la montanera. <strong>Lomo de Bellota Ibérico 50% Raza Ibérica</strong> curado <strong>120 días</strong>. Pieza noble de cerdo criado en libertad y alimentado con bellota natural.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomo-bellota-doblado",
+    "name": "Lomo de Bellota 100% Ibérico Doblado",
+    "category": "Lomos",
+    "description": "<strong>Lomo de Bellota 100% Ibérico Doblado</strong>. Receta tradicional extremeña con curación prolongada de <strong>180 días</strong>. Su grosor le otorga una jugosidad especial y un sabor concentrado.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomo-cebo-campo",
+    "name": "Lomo de Cebo de Campo Ibérico",
+    "category": "Lomos",
+    "description": "<strong>Lomo de Cebo de Campo Ibérico 50% Raza Ibérica</strong>. Curación mínima de <strong>90 días</strong>. Cerdo criado en libertad en <strong>Extremadura</strong> y alimentado con la mejor combinación de cereales y piensos.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomo-cebo-iberico",
+    "name": "Lomo de Cebo de Campo Ibérico",
+    "category": "Lomos",
+    "description": "<strong>Lomo de Cebo de Campo Ibérico 50% Raza Ibérica</strong>. Curación mínima de <strong>90 días</strong>. Cerdo criado en libertad en <strong>Extremadura</strong> y alimentado con la mejor combinación de cereales y piensos.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomo-cebo-doblado",
+    "name": "Lomo de Campaña 100% Doblado",
+    "category": "Lomos",
+    "description": "<strong>Lomo de Campaña 100% Doblado</strong> con <strong>180 días</strong> de curación. Receta tradicional de <strong>Extremadura</strong> que le confiere un grosor especial y una jugosidad máxima. Pieza noble de cerdo de campaña.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomito-iberico",
+    "name": "Lomito de Bellota Ibérico",
+    "category": "Lomos",
+    "description": "<strong>Lomito de Bellota Ibérico</strong> procedente de la preciada presa ibérica. Curado <strong>90 días</strong> para un sabor exquisito. Pieza de bellota de <strong>Extremadura</strong>, ideal para la alta gastronomía.",
+    "price": "55.00€"
+  },
+  {
+    "id": "lomito-duroc",
+    "name": "Lomo Duroc",
+    "category": "Lomos",
+    "description": "<strong>Lomo Duroc</strong> curado <strong>60 días</strong>. Elaborado a partir de cintas de lomo seleccionadas. Presenta un marmoleado medio, garantizando una textura y sabor inconfundibles al corte.",
+    "price": "55.00€"
+  },
+  {
+    "id": "chorizo-iberico",
+    "name": "Chorizo de Bellota 100% Ibérico",
+    "category": "Embutidos",
+    "description": "El auténtico <strong>Chorizo de Bellota 100% Ibérico</strong>. Curación de <strong>90 días</strong>. Carne magra de cerdo puro de bellota, con un picado intermedio y el toque de pimentón tradicional de <strong>Extremadura</strong>.",
+    "price": "12.50€"
+  },
+  {
+    "id": "chorizo-cular",
+    "name": "Chorizo Cular Ibérico",
+    "category": "Embutidos",
+    "description": "<strong>Chorizo Cular Ibérico</strong> de alta calidad curado <strong>60 días</strong>. Picado intermedio de carne magra ibérica y el pimentón característico. Sabor intenso y textura firme.",
+    "price": "12.50€"
+  },
+  {
+    "id": "chorizo-velita",
+    "name": "Chorizo Ibérico Velita",
+    "category": "Embutidos",
+    "description": "Pequeño y sabroso <strong>Chorizo Ibérico Velita</strong> de calibre fino. Curación mínima <strong>45 días</strong>. Carne magra ibérica de picado fino y especias. Ideal para tapas.",
+    "price": "12.50€"
+  },
+  {
+    "id": "chorizo-casero",
+    "name": "Chorizo Ibérico Casero",
+    "category": "Embutidos",
+    "description": "<strong>Chorizo Ibérico Casero</strong> (Dulce/Picante) en formato sarta. <strong>45 días</strong> de curación. Sabor tradicional con el pimentón de <strong>Extremadura</strong>. Versátil para cualquier mesa.",
+    "price": "12.50€"
+  },
+  {
+    "id": "chorizo-rosario",
+    "name": "Chorizo Ibérico Rosario",
+    "category": "Embutidos",
+    "description": "<strong>Chorizo Ibérico Rosario</strong> en formato flowpack. <strong>45 días</strong> de curación. Picado fino y pimentón tradicional en tripa natural. Cómodo y listo para llevar.",
+    "price": "12.50€"
+  },
+  {
+    "id": "salchichon-iberico",
+    "name": "Salchichón de Bellota 100% Ibérico",
+    "category": "Embutidos",
+    "description": "<strong>Salchichón de Bellota 100% Ibérico</strong> en tripa cular. <strong>90 días</strong> de curación. Elaborado con carne magra de cerdo puro de bellota, condimentado con pimienta negra y especias naturales. Sabor gourmet.",
+    "price": "12.50€"
+  },
+  {
+    "id": "salchichon-cular",
+    "name": "Salchichón Cular Ibérico",
+    "category": "Embutidos",
+    "description": "<strong>Salchichón Cular Ibérico</strong> de alta calidad curado <strong>60 días</strong>. Elaborado con carne magra ibérica y picado intermedio, condimentado con pimienta negra. Ideal para compartir.",
+    "price": "12.50€"
+  },
+  {
+    "id": "salchichon-velita",
+    "name": "Salchichón Ibérico Velita",
+    "category": "Embutidos",
+    "description": "Práctico <strong>Salchichón Ibérico Velita</strong> de calibre fino. Curación mínima de <strong>45 días</strong>. Picado fino de carne magra ibérica condimentada. Perfecto para aperitivos rápidos.",
+    "price": "12.50€"
+  },
+  {
+    "id": "salchichon-casero",
+    "name": "Salchichón Ibérico Casero",
+    "category": "Embutidos",
+    "description": "<strong>Salchichón Ibérico Casero</strong> en tripa natural (formato sarta). <strong>45 días</strong> de curación. Picado fino y sabor tradicional de <strong>Extremadura</strong>.",
+    "price": "12.50€"
+  },
+  {
+    "id": "morcon-iberico",
+    "name": "Morcón de Bellota 100% Ibérico",
+    "category": "Embutidos",
+    "description": "<strong>Morcón de Bellota 100% Ibérico</strong> de textura gruesa. <strong>150 días</strong> de curación. Seleccionado de carne magra de bellota pura, con pimentón y especias naturales. Sabor tradicional y profundo.",
+    "price": "12.50€"
+  },
+  {
+    "id": "morcon-cebo",
+    "name": "Morcón Ibérico",
+    "category": "Embutidos",
+    "description": "El clásico <strong>Morcón Ibérico</strong> curado <strong>120 días</strong>. Picado grueso de carne magra de alta calidad con pimentón. Ideal para un corte generoso y sabroso.",
+    "price": "12.50€"
+  },
+  {
+    "id": "morcilla-negra",
+    "name": "Morcilla Ibérica Negra",
+    "category": "Embutidos",
+    "description": "<strong>Morcilla Ibérica Negra</strong> elaborada con sangre, grasa y carne ibérica de alta calidad. Condimentada con pimentón y especias naturales. Sabor tradicional extremeño.",
+    "price": "12.50€"
+  },
+  {
+    "id": "morcilla-patatera",
+    "name": "Morcilla Ibérica Patatera",
+    "category": "Embutidos",
+    "description": "<strong>Morcilla Ibérica Patatera</strong>, elaboración típica de <strong>Extremadura</strong>. Mezcla de patata, grasa y carne ibérica. Condimentada con pimentón para un sabor suave y untuoso.",
+    "price": "12.50€"
+  },
+  {
+    "id": "cachuela",
+    "name": "Cachuela Ibérica",
+    "category": "Preparados",
+    "description": "<strong>Cachuela Ibérica</strong> (Paté) de <strong>300g</strong>, típico de <strong>Extremadura</strong>. Elaborado con hígado y manteca de cerdo ibérico. Condimentado con pimentón siguiendo nuestra receta tradicional. Ideal para untar.",
+    "price": "15.00€"
+  },
+  {
+    "id": "cachuela-monodosis",
+    "name": "Cachuela Ibérica Monodosis",
+    "category": "Preparados",
+    "description": "<strong>Cachuela Ibérica</strong> (Paté) en formato <strong>monodosis de 25gr</strong>. Perfecto para hostelería o para llevar. Paté ibérico tradicional de <strong>Extremadura</strong>, listo para untar.",
+    "price": "15.00€"
+  },
+  {
+    "id": "panceta",
+    "name": "Panceta Ibérica",
+    "category": "Preparados",
+    "description": "<strong>Panceta Ibérica</strong> curada, disponible <strong>con o sin pimentón</strong>. Pieza de la región abdominal con piel, grasa y carne infiltrada de cerdo ibérico. Excelente veta y sabor.",
+    "price": "15.00€"
+  },
+  {
+    "id": "montaño-aceite",
+    "name": "Oveja Montaño",
+    "category": "Quesos",
+    "description": "Queso de Oveja Montaño madurado en aceite, de sabor intenso y textura firme.",
+    "price": "100 €"
+  },
+  {
+    "id": "dibegal",
+    "name": "Oveja Dibegal",
+    "category": "Quesos",
+    "description": "Queso de Oveja Dibegal, caracterizado por su excelente calidad y maduración media.",
+    "price": "100 €"
+  },
+  {
+    "id": "iberlacsa",
+    "name": "Oveja Iberlacsa",
+    "category": "Quesos",
+    "description": "Queso de Oveja Iberlacsa, con un gusto tradicional y una consistencia agradable al paladar.",
+    "price": "100 €"
+  },
+  {
+    "id": "sanchez-briz",
+    "name": "Oveja Sánchez Briz",
+    "category": "Quesos",
+    "description": "Queso de Oveja Sánchez Briz, reconocido por su método de elaboración artesanal.",
+    "price": "100 €"
+  },
+  {
+    "id": "s-briz-picante",
+    "name": "Oveja Sánchez Briz Picante",
+    "category": "Quesos",
+    "description": "Queso de Oveja Sánchez Brizen su versión picante, ideal para los amantes de los sabores fuertes.",
+    "price": "100 €"
+  },
+  {
+    "id": "fenomeno-oro",
+    "name": "Oveja Fenómeno ORO",
+    "category": "Quesos",
+    "description": "Queso de Oveja Fenómeno ORO, una selección premium con maduración prolongada.",
+    "price": "100 €"
+  },
+  {
+    "id": "fenomeno",
+    "name": "Oveja Fenómeno",
+    "category": "Quesos",
+    "description": "Queso de Oveja Fenómeno, sabor equilibrado y textura cremosa. Una opción clásica.",
+    "price": "100 €"
+  },
+  {
+    "id": "tipica",
+    "name": "Oveja Típica",
+    "category": "Quesos",
+    "description": "Queso de Oveja Típica, el sabor tradicional y auténtico de la mejor leche de oveja.",
+    "price": "100 €"
+  },
+  {
+    "id": "el-marques",
+    "name": "Oveja El Marqués",
+    "category": "Quesos",
+    "description": "Queso de Oveja El Marqués, con un perfil de sabor distintivo y elegante.",
+    "price": "100 €"
+  },
+  {
+    "id": "fenomeno-sudao",
+    "name": "Cabra Fenómeno Sudao",
+    "category": "Quesos",
+    "description": "Queso de Cabra Fenómeno Sudao, maduración especial que le confiere una corteza única y un sabor suave.",
+    "price": "100 €"
+  },
+  {
+    "id": "el-montaño-de-las-villuercas",
+    "name": "Cabra El Montaño de las Villuercas",
+    "category": "Quesos",
+    "description": "Queso de Cabra El Montaño de las Villuercas, con el toque inconfundible de la región de Las Villuercas.",
+    "price": "100 €"
+  },
+  {
+    "id": "hnos-gallardo",
+    "name": "Cabra Hnos. Gallardo",
+    "category": "Quesos",
+    "description": "Queso de Cabra Hnos. Gallardo, un producto artesanal de gran tradición y calidad reconocida.",
+    "price": "100 €"
+  },
+  {
+    "id": "don-montaño",
+    "name": "Cabra Don Montaño",
+    "category": "Quesos",
+    "description": "Queso de Cabra Don Montaño, sabor intenso y cremosidad. Un queso con carácter.",
+    "price": "100 €"
+  },
+  {
+    "id": "torta-casar",
+    "name": "Torta del Casar",
+    "category": "Quesos",
+    "description": "Auténtica Torta del Casar, con Denominación de Origen Protegida. Queso de oveja de pasta blanda y untuosa.",
+    "price": "100 €"
+  },
+  {
+    "id": "torta-serena",
+    "name": "Torta de la Serena",
+    "category": "Quesos",
+    "description": "Exquisita Torta de la Serena, queso de oveja de leche cruda con una textura muy cremosa y sabor intenso.",
+    "price": "100 €"
+  },
+  {
+    "id": "tarros-oveja",
+    "name": "Tarros Oveja",
+    "category": "Quesos",
+    "description": "Tarta/Crema de Queso de Oveja en tarro. Ideal para untar y disfrutar del sabor concentrado del queso de oveja.",
+    "price": "100 €"
+  },
+  {
+    "id": "tarros-mezcla",
+    "name": "Tarros Mezcla",
+    "category": "Quesos",
+    "description": "Tarta/Crema de Queso de Mezcla (Oveja y Cabra) en tarro. Una combinación de sabores ideal para aperitivos.",
+    "price": "100 €"
+  }
+]
